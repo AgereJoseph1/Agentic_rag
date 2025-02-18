@@ -57,6 +57,3 @@ Adjust settings in `config/config.json` to customize:
 - Indexing settings
 - Retrieval parameters
 
-## License
-
-MIT
