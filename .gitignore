@@ -1,4 +1,22 @@
-venv
-.env
+# Data directories
+/data/*
+!/data/.gitkeep
 
-/data
+# Local environments
+venv/
+.env
+.env.local
+.env.*.local
+
+# Index files
+*.faiss
+*.pkl
+*.json
+
+# Logs and outputs
+*.log
+/outputs/
+
+# Editor files
+.vscode/
+.idea/
